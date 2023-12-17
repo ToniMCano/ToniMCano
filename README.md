@@ -2,27 +2,19 @@
 
 # Desarrollador Python
 
-¡Combino mi experiencia en desarrollo con una sólida trayectoria como contador de historias y solucionador de problemas comerciales! Estoy entusiasmado por explorar nuevas oportunidades y desafíos que me permitan seguir aprendiendo y creciendo en ambas áreas. ¡Gracias por detenerte en mi perfil! 🚀
-
-## Información Personal
-- **Nombre:** Toni
-- **Edad:** 43 años
-- **Experiencia:** Programador Junior, autodidacta
-- **Experiencia Laboral Anterior:** Consultor Comercial en una multinacional danesa especializada en comunicación durante casi 10 años.
-
 ## Competencias Técnicas
-- **Lenguajes de Programación:**
-  - Python (incluyendo Flask y Django)
-  - SQL
-- **Bases de Datos:**
-  - MySQLite
-- **Librerías y Frameworks:**
-  - Numpy
-  - Pandas
+- **Lenguajes de Programación:**<br><br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=logo&labelColor=2E2E2E)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2E2E2E)]()<br><br>
+- **Bases de Datos:**<br><br>
+  [![MySQLite](https://img.shields.io/badge/MySQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0288D1&labelColor=2E2E2E)]()<br><br>
+- **Librerías y Frameworks:**<br><br>
+  [![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=0288D1&labelColor=2E2E2E)]()
+  [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00&labelColor=2E2E2E)]()<br><br>
 - **Certificaciones:**
   - PCAP (Certified Associate in Python Programming)
 - **Sistemas de Control de Versiones:**
-  - Git
+  [![Git](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00&labelColor=2E2E2E)]()<br><br>
 - **Habilidades Adicionales:**
   - Programación Orientada a Objetos
   - Conocimientos básicos de Linux
@@ -52,3 +44,9 @@
 ## Proyectos Destacados
 *Coming soon...*
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toni_Martínez_Cano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/tonimartinezcano/))
+
+[![Email](https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+
+# ![](https://raw.githubusercontent.com/mouredev/mouredev/master/mi_imagen.png) 
