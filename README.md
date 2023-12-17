@@ -6,6 +6,10 @@
 - **Lenguajes de Programación:**<br><br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=logo&labelColor=2E2E2E)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2E2E2E)]()<br><br>
+- **Frameworks:**<br><br>
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=logo&labelColor=2E2E2E)]()
+[![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=2E2E2E)]()<br><br>
+
 - **Bases de Datos:**<br><br>
   [![MySQLite](https://img.shields.io/badge/MySQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0288D1&labelColor=2E2E2E)]()<br><br>
 - **Librerías y Frameworks:**<br><br>
@@ -13,8 +17,8 @@
   [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00&labelColor=2E2E2E)]()<br><br>
 - **Certificaciones:**
   - PCAP (Certified Associate in Python Programming)
-- **Sistemas de Control de Versiones:**
-  [![Git](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00&labelColor=2E2E2E)]()<br><br>
+- **Sistemas de Control de Versiones:**<br><br>
+  [![Git](https://img.shields.io/badge/git-F64935?style=for-the-badge&logo=git&logoColor=white&labelColor=2E2E2E)]()<br><br>
 - **Habilidades Adicionales:**
   - Programación Orientada a Objetos
   - Conocimientos básicos de Linux
