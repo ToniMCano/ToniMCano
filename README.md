@@ -5,7 +5,7 @@
 ## Competencias Técnicas
 - **Lenguajes de Programación:**<br><br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=logo&labelColor=2E2E2E)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2E2E2E)]()<br><br>
+[![MySQL](https://img.shields.io/badge/SQL-2E9FE6?style=for-the-badge&logo=sql&logoColor=white&labelColor=2E2E2E)]()<br><br>
 - **Frameworks:**<br><br>
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=logo&labelColor=2E2E2E)]()
 [![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=2E2E2E)]()<br><br>
