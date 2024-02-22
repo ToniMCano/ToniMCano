@@ -5,7 +5,11 @@
 ## Competencias Técnicas
 - **Lenguajes de Programación:**<br><br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=logo&labelColor=2E2E2E)]()
-[![MySQL](https://img.shields.io/badge/SQL-2E9FE6?style=for-the-badge&logo=sql&logoColor=white&labelColor=2E2E2E)]()<br><br>
+[![SQL](https://img.shields.io/badge/SQL-2E9FE6?style=for-the-badge&logo=sql&logoColor=white&labelColor=2E2E2E)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=logo&labelColor=2E2E2E)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&labelColor=2E2E2E)]()
+<br><br>
+
 - **Frameworks:**<br><br>
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=logo&labelColor=2E2E2E)]()
 [![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=2E2E2E)]()<br><br>
@@ -18,7 +22,8 @@
 - **Certificaciones:**
   - PCAP (Certified Associate in Python Programming)
 - **Sistemas de Control de Versiones:**<br><br>
-  [![Git](https://img.shields.io/badge/git-F64935?style=for-the-badge&logo=git&logoColor=white&labelColor=2E2E2E)]()<br><br>
+  [![Git](https://img.shields.io/badge/git-F64935?style=for-the-badge&logo=git&logoColor=white&labelColor=2E2E2E)]()
+  [![GitHub](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=white&labelColor=2E2E2E)]()<br><br>
 - **Habilidades Adicionales:**
   - Programación Orientada a Objetos
   - Conocimientos básicos de Linux
