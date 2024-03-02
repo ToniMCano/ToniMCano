@@ -15,7 +15,7 @@
 [![Django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=2E2E2E)]()<br><br>
 
 - **Bases de Datos:**<br><br>
-  [![MySQLite](https://img.shields.io/badge/MySQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0288D1&labelColor=2E2E2E)]()<br><br>
+  [![SQLite](https://img.shields.io/badge/MySQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=0288D1&labelColor=2E2E2E)]()<br><br>
 - **Librerías y Frameworks:**<br><br>
   [![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=0288D1&labelColor=2E2E2E)]()
   [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFCA00&labelColor=2E2E2E)]()<br><br>
