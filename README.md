@@ -28,7 +28,7 @@
   - Programación Orientada a Objetos
   - Conocimientos básicos de Linux
   - Experiencia con comandos básicos de Git
-  -  Desarrollo de interfaces gráficas con Tkinter
+  - Desarrollo de interfaces gráficas con Tkinter
 
 ## Experiencia Laboral en Desarrollo y Comercial
 ### Desarrollo:
@@ -56,5 +56,5 @@
 <a href="https://www.linkedin.com/in/tonimartinezcano/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Toni_Martínez_Cano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn">
 </a>
-[![Email](https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:toni.mrtnz.cn@gmail.com)
 
+[![Email](https://img.shields.io/badge/Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:toni.mrtnz.cn@gmail.com)
